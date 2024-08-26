@@ -1,4 +1,5 @@
 /node_modules/
+/docs/node_modules/
 /lib/
 /test/
 custom-elements.json
@@ -9,3 +10,4 @@ my-element.d.ts
 my-element.d.ts.map
 # only generated for size check
 my-element.bundled.js
+
